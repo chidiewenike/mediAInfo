@@ -1,0 +1,97 @@
+define
+
+leads sub relation,
+    relates president,
+    relates country;
+
+leads sub relation,
+    relates governor,
+    relates state;
+
+legal_issue sub relation,
+    relates felony,
+    relates postal;
+
+allows_for sub relation,
+    relates postal,
+    relates state;
+
+allows_for sub relation,
+    relates postal,
+    relates country;
+
+case sub relation,
+    relates felony,
+    relates perpetrator;
+
+rate_of_crime sub relation,
+    relates felony,
+    relates rate;
+
+voting_method sub entity,
+    plays postal,
+    has name,
+    has source;
+
+crime sub entity,
+    plays felony,
+    has name,
+    has source;
+
+criminal sub entity,
+    plays perpetrator,
+    has name,
+    has source;
+
+leader sub entity,
+    plays president,
+    plays governor,
+    has name,
+    has title,
+    has origin,
+    has gender,
+    has citizenship,
+    has age,
+    has term,
+    has source;
+
+polity sub entity,
+    plays country,
+    plays state,
+    has name,
+    has population,
+    has capital,
+    has lead,
+    has title,
+    has source;
+
+stat sub entity,
+    plays rate,
+    has name,
+    has stat_value,
+    has source;
+
+name sub attribute,
+        value string;
+title sub attribute,
+        value string;
+gender sub attribute,
+        value string;
+origin sub attribute,
+        value string;
+capital sub attribute,
+        value string;
+source sub attribute,
+        value string;
+population sub attribute,
+        value long;
+age sub attribute,
+        value long;
+stat_value sub attribute,
+        value string;
+citizenship sub attribute,
+        value string;
+term sub attribute,
+        value string;
+lead sub attribute,
+        value string;

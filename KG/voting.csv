@@ -1,0 +1,16 @@
+﻿entity_name,entity,leads,legal_issue,allows_for,case,rate_of_crime,stat_value,country,state,president,capital,governor,age,origin,population,citizenship,gender,term,source
+Donald Trump,4,United States of America,,,,,,0,0,1,,0,74,"New York, New York",,American,male,2016-2020,https://en.wikipedia.org/wiki/Donald_Trump
+Katie Meyer,3,,,,,,,0,0,0,,0,,,,,female,,https://www.oregonlive.com/politics/2019/04/10-oregon-voters-plea-guilty-to-voter-fraud-in-2016-presidential-election.html
+United States of America,5,,,Postal,,,,1,0,0,Washington DC,0,,,328200000,,,,https://en.wikipedia.org/wiki/United_States
+France,5,,,Postal,,,,1,0,0,Paris,0,,,66990000,,,,https://en.wikipedia.org/wiki/France
+Hawaii,5,,,Postal,,,,0,1,0,Honululu,0,,,1416000,,,,https://en.wikipedia.org/wiki/Hawaii
+Colorado,5,,,Postal,,,,0,1,0,Denver,0,,,5759000,,,,https://en.wikipedia.org/wiki/Colorado
+Utah,5,,,Postal,,,,0,1,0,Salt Lake City,0,,,3206000,,,,https://en.wikipedia.org/wiki/Utah
+Washington,5,,,Postal,,,,0,1,0,Seattle,0,,,7615000,,,,https://en.wikipedia.org/wiki/Washington_(state)
+Oregon,5,,,Postal,,,,0,1,0,Portland,0,,,4218000,,,,https://en.wikipedia.org/wiki/Oregon
+Postal,1,,Voting Fraud,,,,,0,0,0,,0,,,,,,,https://en.wikipedia.org/wiki/Postal_voting
+In-Person,1,,,,,,,0,0,0,,0,,,,,,,https://en.wikipedia.org/wiki/Polling_place
+Emmanuel Macron,4,France,,,,,,0,0,1,,0,42,"Amiens, France",,French,male,2017-Present,https://en.wikipedia.org/wiki/Emmanuel_Macron
+Voting Fraud,2,,,,Katie Meyer,0.0009%,,0,0,0,,0,,,,,,,https://en.wikipedia.org/wiki/Electoral_fraud
+0.0009%,6,,,,,,0.0009%,0,0,0,,0,,,,,,,https://en.wikipedia.org/wiki/Vote-by-mail_in_Oregon
+Kate Brown,4,Oregon,,,,,,0,0,0,,1,60,"Torrejon de Ardoz, Spain",,American,female,2015-Present,https://en.wikipedia.org/wiki/Kate_Brown
