@@ -1,4 +1,5 @@
 # mediAInfo
+Microsoft Global Hackathon project by Chidi Ewenike
 
 ## Datasets used
 
