@@ -1,5 +1,7 @@
 # mediAInfo
-Microsoft Global Hackathon project by Chidi Ewenike
+Microsoft Global Hackathon project by Chidi Ewenike that won the "Best User Value" award for the "World Knowledge Hack" challenge.
+
+Here is a link to the [VIDEO](https://youtu.be/fFLzgXL9P5s)
 
 ## Datasets used
 
